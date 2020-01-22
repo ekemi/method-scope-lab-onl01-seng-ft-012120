@@ -1,4 +1,5 @@
-filter_parameter_loggingrequire "spec_helper"
+##filter_parameter_loggingrequire 
+require "spec_helper"
 
 describe "#rescue_princess_peach" do
   it "outputs a message and sets a variable, status, that is not available outside of this method" do
