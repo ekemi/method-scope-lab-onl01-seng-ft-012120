@@ -1,3 +1,4 @@
+##filter_parameter_loggingrequire 
 require "spec_helper"
 
 describe "#rescue_princess_peach" do
